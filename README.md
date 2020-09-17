@@ -1,4 +1,4 @@
-# Data-Mining
+# Homework-2 Data-Mining
 
 If you want to run in the pycharm , you've to install basemap package. 
 
